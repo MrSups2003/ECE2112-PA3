@@ -31,4 +31,5 @@ d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do t
 # Updates
 - Update 1: In Problem 1, the output gives an accurate but messy result. I separated the .head and .tail on a different cell to fix this.
 - Update 2: In Problem 2, on part d comment, it is indexing, not slicing
-- Update 3: In problem 2, The output for part d is messy, and it is best to separate each cell output to display tidy outputs. With this, the print code is removed and replaced with just variable outputs
+- Update 3: In Problem 2, The output for part d is messy, and it is best to separate each cell output to display tidy outputs. With this, the print code is removed and replaced with just variable outputs
+- Update 4: Since there are multiple parts in problem 2, I added markdowns for each parts
