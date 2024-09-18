@@ -1,6 +1,8 @@
 # ECE2112-PA3 PYTHON DATA ANALYSIS (PANDAS)
 Name: Supnet Joshua
+
 Section: 2ECE-D
+
 Date Submitted: September 17, 2024
 
 # PROBLEM 1: Using knowledge obtained from the experiment and demonstrations:
@@ -33,3 +35,4 @@ d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do t
 - Update 2: In Problem 2, on part d comment, it is indexing, not slicing
 - Update 3: In Problem 2, The output for part d is messy, and it is best to separate each cell output to display tidy outputs. With this, the print code is removed and replaced with just variable outputs
 - Update 4: Since there are multiple parts in problem 2, I added markdowns for each parts
+- Update 5: Name, Section, and Date submission were on the same line. I had to separate them by rows
